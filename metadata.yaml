@@ -1,0 +1,37 @@
+_repo: The-Watchers-of-the-Trails--A-Book-of-Animal-Life_25718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: 'Indhold: The freedom of the black-faced ram ; The master of Golden Pool
+  ; The return to the trails ; The little wolf of the pool ; The little wolf of the
+  air ; The alien of the wild ; The silver frost ; By the winter tide ; The rivals
+  of Ringwaak ; The decoy ; The laugh in the dark ; The kings of the intervale ; The
+  kill ; The little people of the sycamore ; Horns and antlers ; In the deep of the
+  grass ; When the moon is over the corn ; The truce ; The keeper of the water-gate
+  ; When the moose cow calls ; The passing of the black whelps ; The homeward trail'
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2008-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+title: 'The Watchers of the Trails: A Book of Animal Life'
+url: http://www.gutenberg.org/ebooks/25718
